@@ -1,2 +1,2 @@
 # Zekrypt-s-Testerator
-just tests
+just tests &
